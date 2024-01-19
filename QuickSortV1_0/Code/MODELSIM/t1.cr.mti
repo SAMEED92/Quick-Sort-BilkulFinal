@@ -1,0 +1,22 @@
+C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/QuickSort.v {1 {vlog -work work -vopt C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/QuickSort.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module QuickSort
+
+Top level modules:
+	QuickSort
+
+} {} {}} C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/dport_bram.v {1 {vlog -work work -vopt C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/dport_bram.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module dport_bram
+
+Top level modules:
+	dport_bram
+
+} {} {}} C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/tb_quicksort.v {1 {vlog -work work -vopt C:/Users/Sameed/Desktop/Quicksort/Quicksort_4/Code/tb_quicksort.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_quicksort
+
+Top level modules:
+	tb_quicksort
+
+} {} {}}
